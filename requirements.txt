@@ -1,0 +1,5 @@
+uvicorn
+fastapi
+nltk
+pandas
+elasticsearch~=8.15.0
